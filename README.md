@@ -19,7 +19,7 @@
 
 ## :information_source: Sobre o Projeto
 
-PROJETO desenvolvido para aprendizado de criação de interfaces profissionais com React.js. Nesse repositório você vai encontrar o clone do twitter atualizado na data de 09 de Janeiro de 2021. Desenvolvi com React.js e algumas bibliotecas. Esse projeto tem como foco a responsividade e efeitos de hover ao passar e clicar sobre os botões da interface. Foi utilizado o conceito de flexbox para o desenvolvimento, aproveite e sinta-se a vontate para modificar a seu gosto!
+PROJETO desenvolvido para aprendizado de criação de interfaces profissionais com React.js. Nesse repositório você vai encontrar o clone do twitter atualizado na data de 09 de Janeiro de 2021. Desenvolvi com React.js e algumas bibliotecas. Esse projeto tem como foco a responsividade e efeitos de hover ao passar e clicar sobre os botões da interface. Foi utilizado o conceito de flexbox para o desenvolvimento, aproveite e sinta-se a vontate para modificar a seu gosto! Tive que adaptar alguns icones, e componentes por isso talvez seria bom uma melhora na feature desse items. Poderiamos melhorar diversas outras coisas no projeto por isso deixo livre para implementarem. Poderíamos melhorar a coloração e tamanho dos componentes.
 
 ## :computer: Objetivo
 
