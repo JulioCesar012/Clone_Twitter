@@ -37,6 +37,9 @@ O projeto foi desenvolvido com as seguintes tecnologias e depêndencias:
 
 - [Typescript][typescript]
 - [React.js][reactjs]
+- [React Sticky Box][react-sticky-box]
+- [Styled Components][styled-components]
+- [Styled Icons][styled-icons]
 - [Yarn][yarn]
 
 ## :information_source: Requisitos para rodar
@@ -79,6 +82,9 @@ Desenvolvido com ♥ por @JulioCesar012 :wave: [Me contate!](https://www.linkedi
 
 [typescript]: https://www.typescriptlang.org/
 [reactjs]: https://reactjs.org
+[react-sticky-box]: https://www.npmjs.com/package/react-sticky-box
+[styled-components]: https://styled-components.com/
+[styled-icons]: https://styled-icons.js.org/
 [yarn]: https://yarnpkg.com/
 
 [frontend]: https://clonetwitter21.netlify.app/
