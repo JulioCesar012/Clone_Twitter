@@ -81,4 +81,4 @@ Desenvolvido com ♥ por @JulioCesar012 :wave: [Me contate!](https://www.linkedi
 [reactjs]: https://reactjs.org
 [yarn]: https://yarnpkg.com/
 
-[frontend]: https://frontendsempreit.herokuapp.com/
+[frontend]: https://clonetwitter21.netlify.app/
